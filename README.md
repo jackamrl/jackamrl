@@ -1,13 +1,16 @@
 ### Hi there 👋
+### I am Jacques BOYODI, You can call me JackDev. I am a developer and UI/UX Designer
+
 - 🔭 I’m currently working on Machine Learning with Python
+- 💬 Ask me about Angular, Html, Scss
+- 🤔 I’m looking for help with Python(Machine Learning)
+- ⚡ Fun fact: Football, Music (Piano 🎹)
 
 ### Contact me
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/JBoyodi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%237289DA.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/londou-jacques-boyodi)
 [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](https://www.linkedin.com/in/londou-jacques-boyodi)
 
-
-I am Jacques. You can call me JackDev I am developer and UI/UX Designer
 
 #### Languages
 
