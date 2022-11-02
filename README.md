@@ -2,7 +2,7 @@
 ### I am Jacques BOYODI, You can call me JackDev. I am a developer and UI/UX Designer
 
 - 🔭 I’m currently working on Machine Learning with Python
-- 💬 Ask me about Angular, Html, Scss
+- 💬 Ask me about Angular, Html, Scss, Spring boot
 - 🤔 I’m looking for help with Python(Machine Learning)
 - ⚡ Fun fact: Football, Music (Piano 🎹)
 
