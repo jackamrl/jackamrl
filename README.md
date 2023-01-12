@@ -9,7 +9,7 @@
 ### Contact me
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/JBoyodi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%237289DA.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/londou-jacques-boyodi)
-[![Gmail](https://img.shields.io/badge/Yahoo-purple.svg?logo=yahoo&logoColor=white)](jacquesboyodi@yahoo.fr)
+[![Gmail](https://img.shields.io/badge/Yahoo-purple.svg?logo=yahoo&logoColor=white)](mailto:jacquesboyodi@yahoo.fr)
 
 
 #### Languages
