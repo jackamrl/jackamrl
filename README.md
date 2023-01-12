@@ -18,7 +18,7 @@
 
 #### Frontend
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23f1413d.svg?style=for-the-badge&logo=angular&logoColor=white) ![Sass](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass&logoColor=pink) ![Ext JS](https://img.shields.io/badge/sencha-ext%20js-blue.svg?style=for-the-badge&logo=sencha&logoColor=white) ![Tailwind css](https://img.shields.io/badge/tailwind%20css-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB)
+![React js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23f1413d.svg?style=for-the-badge&logo=angular&logoColor=white) ![Sass](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass&logoColor=pink) ![Ext JS](https://img.shields.io/badge/sencha-ext%20js-blue.svg?style=for-the-badge&logo=sencha&logoColor=white) ![Tailwind css](https://img.shields.io/badge/tailwind%20css-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB)
  
 
 #### Backend
@@ -34,6 +34,9 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Postman](https://img.shields.io/badge/postman-%23F24E1E.svg?style=for-the-badge&logo=postman&logoColor=white) 
+![Scrum](https://img.shields.io/badge/scrum-red.svg?style=for-the-badge&logo=scrum&logoColor=white) 
+![Git](https://img.shields.io/badge/git-orange.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Trello](https://img.shields.io/badge/trello-blue.svg?style=for-the-badge&logo=trello&logoColor=white) 
 
 ### My skills 😛
 
