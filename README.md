@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am Jacques BOYODI, You can call me JackDev. I am a developer and UI/UX Designer
 
-- 🔭 I’m currently working on Machine Learning with Python
+- 🔭 I’m currently learning React JS
 - 💬 Ask me about Angular, Html, Scss, Spring boot
 - 🤔 I’m looking for help with Python(Machine Learning)
 - ⚡ Fun fact: Football, Music (Piano 🎹)
@@ -14,7 +14,7 @@
 
 #### Languages
 
-![Java](https://img.shields.io/badge/java-%230095D5.svg?style=for-the-badge&logo=java&logoColor=white) ![Javascript](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/c-%23239120.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-F54A2A?style=for-the-badge&logo=c++&logoColor=white) ![Php](https://img.shields.io/badge/php-blue.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Mysql](https://img.shields.io/badge/mysql-orange?style=for-the-badge&logo=mysql&logoColor=blue)
+![Java](https://img.shields.io/badge/java-%230095D5.svg?style=for-the-badge&logo=java&logoColor=white) ![Javascript](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/c-%23239120.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-F54A2A?style=for-the-badge&logo=c++&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Mysql](https://img.shields.io/badge/mysql-orange?style=for-the-badge&logo=mysql&logoColor=blue)
 
 #### Frontend
 
@@ -37,6 +37,7 @@
 ![Scrum](https://img.shields.io/badge/scrum-red.svg?style=for-the-badge&logo=scrum&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-orange.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Trello](https://img.shields.io/badge/trello-blue.svg?style=for-the-badge&logo=trello&logoColor=white) 
+![Jira](https://img.shields.io/badge/jira-blue.svg?style=for-the-badge&logo=jira&logoColor=white) 
 
 ### My skills 😛
 
