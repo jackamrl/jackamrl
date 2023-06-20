@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am Jacques BOYODI, You can call me JackDev. I am a developer and UI/UX Designer
 
-- 🔭 I’m currently learning React JS
+- 🔭 I’m currently learning Nuxt js
 - 💬 Ask me about Angular, Html, Scss, Spring boot
 - 🤔 I’m looking for help with Python(Machine Learning)
 - ⚡ Fun fact: Football, Music (Piano 🎹)
@@ -18,7 +18,8 @@
 
 #### Frontend
 
-![React js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23f1413d.svg?style=for-the-badge&logo=angular&logoColor=white) ![Sass](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass&logoColor=pink) ![Ext JS](https://img.shields.io/badge/sencha-ext%20js-blue.svg?style=for-the-badge&logo=sencha&logoColor=white) ![Tailwind css](https://img.shields.io/badge/tailwind%20css-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB)
+![React js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23f1413d.svg?style=for-the-badge&logo=angular&logoColor=white) ![Sass](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass&logoColor=pink) ![Ext JS](https://img.shields.io/badge/sencha-ext%20js-blue.svg?style=for-the-badge&logo=sencha&logoColor=white) ![Tailwind css](https://img.shields.io/badge/tailwind%20css-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue%20js-%2320232a.svg?style=for-the-badge&logo=vue.js&logoColor=green)
+ 
  
 
 #### Backend
