@@ -43,10 +43,14 @@
 ### My skills 😛
 
 ![](https://github-readme-stats.vercel.app/api?username=jackamrl&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+<!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jackamrl&theme=dark&hide_border=true)<br/>
+-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jackamrl&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+### Visitor count
 
+<img src="https://profile-counter.glitch.me/jackamrl/count.svg" />
 
 Last update on Wed Jun 29 2022
 
