@@ -52,7 +52,7 @@
 
 <img src="https://profile-counter.glitch.me/jackamrl/count.svg" />
 -->
-Last update on Wed Jun 29 20220
+Last update on Wed Jun 29 2022
 
 <!--
 <img src="https://profile-counter.glitch.me/jackaamrl/count.svg" />
