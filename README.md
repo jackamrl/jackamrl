@@ -4,7 +4,7 @@
 - 🔭 I’m currently learning Nuxt js
 - 💬 Ask me about Angular, Html, Scss, Spring boot
 - 🤔 I’m looking for help with Python(Machine Learning)
-- ⚡ Fun fact: Football, Music (Piano 🎹)...
+- ⚡ Fun fact: Football, Music (Piano 🎹)
 
 ### Contact me
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/JBoyodi)
@@ -42,7 +42,9 @@
 
 ### My skills 😛
 
-![](https://github-readme-stats.vercel.app/api?username=jackamrl&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=jackamrl&show_icons=true&theme=dark&hide_border=true)<br/>
+
+<!--![](https://github-readme-stats.vercel.app/api?username=jackamrl&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
 <!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jackamrl&theme=dark&hide_border=true)<br/>
 -->
@@ -58,14 +60,4 @@ Last update on Wed Jun 29 2022
 <img src="https://profile-counter.glitch.me/jackaamrl/count.svg" />
 **jackamrl/jackamrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-###- 🔭 I’m currently working on MAchine learning with Python
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
