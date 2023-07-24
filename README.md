@@ -42,7 +42,7 @@
 
 ### My skills 😛
 
-![](https://github-readme-stats.vercel.app/api?username=jackamrl&show_icons=true&theme=dracula&hide_border=true&title_color=d467f0&icon_color=d467f0&include_all_commits=true&hide=contribs&show=reviews,discussions_started,discussions_answered)<br/>
+![](https://github-readme-stats.vercel.app/api?username=jackamrl&show_icons=true&theme=dracula&title_color=d467f0&icon_color=d467f0&include_all_commits=true&hide=contribs)<br/>
 
 <!--![](https://github-readme-stats.vercel.app/api?username=jackamrl&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
 <!--
