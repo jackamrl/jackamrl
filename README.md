@@ -48,7 +48,7 @@
 <!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jackamrl&theme=dark&hide_border=true)<br/>
 -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jackamrl&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jackamrl&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=d467f0&icon_color=d467f0)
 
 <!-- ### Visitor count
 
