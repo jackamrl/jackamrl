@@ -44,10 +44,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=jackamrl&show_icons=true&theme=dracula&title_color=d467f0&icon_color=d467f0&include_all_commits=true&hide=contribs)<br/>
 
-<!--![](https://github-readme-stats.vercel.app/api?username=jackamrl&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
-<!--
+
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jackamrl&theme=dark&hide_border=true)<br/>
--->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jackamrl&theme=dracula&include_all_commits=true&count_private=true&layout=compact&title_color=d467f0&icon_color=d467f0)
 
 ### My Projects 🧑‍💻
