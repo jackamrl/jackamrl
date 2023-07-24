@@ -51,10 +51,10 @@
 ### My Projects 🧑‍💻
 
 <a href="https://github.com/jackamrl/worldwide-news-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jackamrl&repo=worldwide-news-app&theme=dracula&text_color=d467f0" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jackamrl&repo=worldwide-news-app&theme=dracula&title_color=d467f0" />
 </a>
 <a href="https://github.com/jackamrl/reaction-timer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jackamrl&repo=reaction-timer&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jackamrl&repo=reaction-timer&theme=dracula&title_color=d467f0" />
 </a>
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackamrl&repo=worldwide-news-app&show_owner=true)](https://github.com/jackamrl/worldwide-news-app)
