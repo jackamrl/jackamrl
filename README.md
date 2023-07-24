@@ -48,7 +48,7 @@
 <!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jackamrl&theme=dark&hide_border=true)<br/>
 -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jackamrl&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=d467f0&icon_color=d467f0)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jackamrl&theme=dracula&include_all_commits=true&count_private=true&layout=compact&title_color=d467f0&icon_color=d467f0)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackamrl&repo=worldwide-news-app&show_owner=true)](https://github.com/jackamrl/worldwide-news-app)
@@ -57,7 +57,7 @@
 
 <img src="https://profile-counter.glitch.me/jackamrl/count.svg" />
 -->
-Last update on Wed Jun 29 2022
+Last update on Wed July 24 2023
 
 <!--
 <img src="https://profile-counter.glitch.me/jackaamrl/count.svg" />
