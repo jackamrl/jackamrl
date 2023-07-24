@@ -50,8 +50,11 @@
 -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jackamrl&theme=dracula&include_all_commits=true&count_private=true&layout=compact&title_color=d467f0&icon_color=d467f0)
 
+### My Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackamrl&repo=worldwide-news-app&show_owner=true)](https://github.com/jackamrl/worldwide-news-app)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackamrl&repo=reaction-timer&show_owner=true)](https://github.com/jackamrl/reaction-timer)
 
 <!-- ### Visitor count
 
