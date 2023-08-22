@@ -5,7 +5,6 @@
 - 💬 Ask me about Angular, Html, Scss, Spring boot
 - 🤔 I’m looking for help with Python(Machine Learning)
 - ⚡ Fun fact: Football, Music (Piano 🎹)
-- hey
 
 ### Contact me ☎️
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/JBoyodi)
