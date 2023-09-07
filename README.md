@@ -42,7 +42,7 @@
 
 ### My skills 😛
 
-![](https://github-readme-stats.vercel.app/api?username=jackamrl&show_icons=true&theme=dracula&title_color=d467f0&icon_color=d467f0&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=jackamrl&show_icons=true&theme=dracula&title_color=d467f0&icon_color=d467f0&hide=contribs)
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jackamrl&icons=true&title_color=d467f0&icon_color=d467f0&theme=dracula)
 <br/>
