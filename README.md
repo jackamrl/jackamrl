@@ -46,6 +46,8 @@
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jackamrl&icons=true&title_color=d467f0&icon_color=d467f0&theme=dracula)
 <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jackamrl&icons=true&title_color=d467f0&icon_color=d467f0&theme=dracula)
+<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jackamrl&theme=dracula&include_all_commits=true&count_private=true&layout=compact&title_color=d467f0&icon_color=d467f0)
 
